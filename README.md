@@ -7,3 +7,5 @@ you can extend and can easly add register menu, add theme support, add custom ta
 custom taxonomy fields and etc.
 
 I will keep adding new functions to this class.
+
+Wiki page will include all function descriptions and usages. 
